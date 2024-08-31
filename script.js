@@ -21,7 +21,7 @@ const messageBotC = document.querySelector(".message-bot");
 const messageLastC = document.querySelector(".message-last");
 
 textImg.addEventListener("click", () => {
-	textImg.style.top = "-20%";
+	textImg.style.top = "-50%";
 	textImg.style.transition = "2s ease-in";
 
 	messageTopC.style.display = "block";
